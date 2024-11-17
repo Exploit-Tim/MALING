@@ -33,10 +33,10 @@ apt update && apt upgrade -y
 apt install ffmpeg -y
 ```
 ```
-git clone https://token_github@github.com/wndrzzka/gayoubotwann && cd gayoubotwann 
+git clone https://token_github@github.com/BakuProje/XwinkelsUbot.git && cd XwinkelsUbot
 ```
 ```
-screen -S gayoubotwann
+screen -S XwinkelsUbot
 ```
 ```
 bash installmodule.sh
