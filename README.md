@@ -33,7 +33,7 @@ apt update && apt upgrade -y
 apt install ffmpeg -y
 ```
 ```
-git clone https://token_github@github.com/BakuProje/XwinkelsUbot.git && cd XwinkelsUbot
+git clone https://token_github@github.com/Danesiuu/XwinkelsUbot.git && cd XwinkelsUbot
 ```
 ```
 screen -S XwinkelsUbot
