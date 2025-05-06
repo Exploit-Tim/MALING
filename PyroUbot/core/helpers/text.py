@@ -22,7 +22,7 @@ class MSG:
 • ᴏᴡɴᴇʀ : <a href=tg://openmessage?user_id={OWNER_ID}>ʙᴀᴋᴜᴢᴀᴀɴ</a> 
 
 ʟɪsᴛ ʜᴀʀɢᴀ & ᴋᴇʙᴜᴛᴜʜᴀɴ ᴜsᴇʀʙᴏᴛ :
-<a href='https://t.me/BakuzaanStore/7'>ᴋᴇʙᴜᴛᴜʜᴀɴ ᴜsᴇʀʙᴏᴛ</a>
+<a href='https://t.me/azelloelvano'>ᴋᴇʙᴜᴛᴜʜᴀɴ ᴜsᴇʀʙᴏᴛ</a>
 
 👉🏻 ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ</b></blockquote>
 """
@@ -31,14 +31,14 @@ class MSG:
         return f"""
 <blockquote><b>💬 sɪʟᴀʜᴋᴀɴ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ</b>
 
-<b>🎟️ ʜᴀʀɢᴀ ᴘᴇʀʙᴜʟᴀɴ: 15.000</b>
+<b>🎟️ ʜᴀʀɢᴀ ᴘᴇʀʙᴜʟᴀɴ: 20.000</b>
 
 <b>💳 ᴍᴏᴛᴏᴅᴇ ᴘᴇᴍʙᴀʏᴀʀᴀɴ:</b>
- <b>├ ʙᴀɴᴋ ᴊᴀɢᴏ : `108446781389` <b>MUHAMMAD FAXXX XXXXX</b> </b>
- <b>├ ᴅᴀɴᴀ : `085331569338` <b>MUHAMMAD FAXXX XXXXX</b> </b>
- <b>├ ɢᴏᴘᴀʏ : `085331569338` <b>MUHAMMAD FAXXX XXXXX</b> </b>
- <b>├ ǫʀɪs : @bakuzaan</b>
-<b>🔖 ᴛᴏᴛᴀʟ ʜᴀʀɢᴀ: ʀᴘ 15.000 ᴘᴇʀʙᴜʟᴀɴ</b> 
+ <b>├ ʙᴀɴᴋ ʙʀɪ : `438101012256504` <b>MUHAMMAD NAXXX XXXXX</b> </b>
+ <b>├ ᴅᴀɴᴀ : `082115489207` <b>MUHAMMAD NAXXX XXXXX</b> </b>
+ <b>├ ɢᴏᴘᴀʏ : `082115489207` <b>MUHAMMAD NAXXX XXXXX</b> </b>
+ <b>├ ǫʀɪs : @jonathanwutwutt</b>
+<b>🔖 ᴛᴏᴛᴀʟ ʜᴀʀɢᴀ: ʀᴘ 20.000 ᴘᴇʀʙᴜʟᴀɴ</b> 
 
  🚀 ꜱɪʟᴀʜᴋᴀɴ ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴇʟɪ ᴜꜱᴇʀʙᴏᴛ 
 • ᴏᴡɴᴇʀ : <a href=tg://openmessage?user_id={OWNER_ID}>ʙᴀᴋᴜᴢᴀᴀɴ</a> 
@@ -60,5 +60,5 @@ class MSG:
 ᴜɴᴛᴜᴋ ᴘᴇᴍᴀᴋᴀɪᴀɴ ᴜsᴇʀʙᴏᴛ ʙɪᴀsᴀ ᴅɪ ᴘᴀᴋᴀɪ ᴅɪ ᴀᴋᴜɴ ʟᴀᴍᴀ ᴀᴛᴀᴜ ʙɪᴀsᴀ ɪᴅ ᴀᴡᴀʟᴀɴ 𝟷-𝟻,
 sᴇᴍᴜᴀ ᴘᴇɴɢɢᴜɴᴀ ᴅᴀʀɪ ɪᴅ ᴛᴇʀsᴇʙᴜᴛ sᴜᴅᴀʜ ᴛᴇʀʙɪʟᴀɴɢ ᴀᴍᴀɴ ᴛᴀᴘɪ sᴇᴍᴜᴀ ᴛᴇʀɢᴀɴᴛᴜɴɢ ᴘᴇᴍᴀᴋᴀɪᴀɴ ᴋᴀʟɪᴀɴ.
 
-ʙʏ @bakuzaan
+ʙʏ @jonathanwutwutt
 """
