@@ -307,7 +307,7 @@ async def _(client, callback_query):
 ɴᴀᴍᴇ : <a href=tg://user?id={new_client.me.id}>{new_client.me.first_name} {new_client.me.last_name or ''}</a>
 ɪᴅ : {new_client.me.id}
 ᴘʀᴇꜰɪxᴇꜱ : {' '.join(SH)}
-ʜᴀʀᴀᴘ ᴊᴏɪɴ : @GayoUbotSupport ᴜɴᴛᴜᴋ ɪɴꜰᴏ" ᴛᴇʀʙᴀʀᴜ
+ʜᴀʀᴀᴘ ᴊᴏɪɴ : @azellosupport ᴜɴᴛᴜᴋ ɪɴꜰᴏ" ᴛᴇʀʙᴀʀᴜ
 ᴊɪᴋᴀ ʙᴏᴛ ᴛɪᴅᴀᴋ ʀᴇꜱᴘᴏɴ, ᴋᴇᴛɪᴋ /restart</b></blockquote>
         """
     await bot_msg.edit(text_done, disable_web_page_preview=True,
@@ -315,10 +315,10 @@ async def _(client, callback_query):
     await bash("rm -rf *session*")
     await install_my_peer(new_client)
     try:
-        await new_client.join_chat("BakuzaanTesti")
-        await new_client.join_chat("BakuzaanStore")
-        await new_client.join_chat("xwinkels")
-        await new_client.join_chat("allinforeyy")
+        await new_client.join_chat("jonathanwutwut")
+        await new_client.join_chat("sekandaltelegramid")
+        await new_client.join_chat("thereisntanything404")
+        await new_client.join_chat("azellosupport")
     except UserAlreadyParticipant:
         pass
 
