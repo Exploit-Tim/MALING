@@ -19,7 +19,7 @@ class MSG:
 <b>💬 @{bot.me.username} ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅᴀᴘᴀᴛ ᴍᴇᴍʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ ᴅᴇɴɢᴀɴ ᴍᴜᴅᴀʜ</b>
 
 🚀 ꜱɪʟᴀʜᴋᴀɴ ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴇʟɪ ᴜꜱᴇʀʙᴏᴛ 
-• ᴏᴡɴᴇʀ : <a href=tg://openmessage?user_id={OWNER_ID}>ʙᴀᴋᴜᴢᴀᴀɴ</a> 
+• ᴏᴡɴᴇʀ : <a href=tg://openmessage?user_id={OWNER_ID}>ᴊᴏɴᴀᴛʜᴀɴ ᴅᴇᴠs</a> 
 
 ʟɪsᴛ ʜᴀʀɢᴀ & ᴋᴇʙᴜᴛᴜʜᴀɴ ᴜsᴇʀʙᴏᴛ :
 <a href='https://t.me/azelloelvano'>ᴋᴇʙᴜᴛᴜʜᴀɴ ᴜsᴇʀʙᴏᴛ</a>
