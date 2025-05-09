@@ -4,7 +4,7 @@
 from PyroUbot import *
 
 
-__MODULE__ = "sudo"
+__MODULE__ = "sᴜᴅᴏ"
 __HELP__ = """
 <b>『 ʙᴀɴᴛᴜᴀɴ ᴜɴᴛᴜᴋ sᴜᴅᴏ 』</b>
 
