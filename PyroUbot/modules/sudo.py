@@ -19,7 +19,7 @@ __HELP__ = """
 """
 
 
-@PY.UBOT("addsudo")
+@WANN.UBOT("addsudo")
 async def _(client, message):
     brhsl = await EMO.BERHASIL(client)
     ggl = await EMO.GAGAL(client)
@@ -52,7 +52,7 @@ async def _(client, message):
         return await msg.edit(error)
 
 
-@PY.UBOT("delsudo")
+@WANN.UBOT("delsudo")
 async def _(client, message):
     brhsl = await EMO.BERHASIL(client)
     ggl = await EMO.GAGAL(client)
@@ -85,7 +85,7 @@ async def _(client, message):
         return await msg.edit(error)
 
 
-@PY.UBOT("getsudo")
+@WANN.UBOT("getsudo")
 async def _(client, message):
     msg = await message.reply("<b>sᴇᴅᴀɴɢ ᴍᴇᴍᴘʀᴏsᴇs...</b>")
     sudo_users = await get_var(client.me.id, "SUDO_USERS") or []
